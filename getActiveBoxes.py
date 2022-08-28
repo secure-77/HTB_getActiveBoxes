@@ -4,7 +4,7 @@ import re
 
 
 settings_file = '.settings.json'
-use_proxy = True
+use_proxy = False
 
 htb_login_enpoint = 'https://www.hackthebox.com/api/v4/login'
 htb_list_endpoint = 'https://www.hackthebox.com/api/v4/machine/list'
