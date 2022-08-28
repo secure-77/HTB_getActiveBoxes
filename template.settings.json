@@ -1,0 +1,7 @@
+{
+    "creds": {
+        "email": "your_htb@mail.com",
+        "password": "top_secret"
+    },
+    "git_ignore": ".gitignore"
+}
